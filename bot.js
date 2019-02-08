@@ -962,4 +962,4 @@ client.on('message', message => {
 });
 
 
-client.login("NTM2OTQ1MDM0NjU0OTA4NDE2.DyeE5g.L0tf0oaZZVmAgIZKXGk0CxagvHg");
+client.login("NTQwNjU4MzM3NDExMjM1ODYx.Dz7y2Q.4G0y2HUWvmlX58_5G2ZoHtcR5UA");
